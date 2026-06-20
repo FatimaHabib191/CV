@@ -1,5 +1,3 @@
 # Fatima Habib Portfolio
-Personal portfolio website showcasing my AI/ML and full-stack projects
+Personal portfolio website
 
-## Live Website
-https://cv-amber-zeta.vercel.app/
